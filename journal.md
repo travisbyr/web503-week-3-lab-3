@@ -26,7 +26,7 @@ By learning how to use this skill effectively I am able to create objects that l
 ![Image of Code](https://github.com/travisbyr/web503-week-3-lab-3/blob/master/images/task2.png)
 
 #### Task Three - Creating Two Shapes
-<img src="https://github.com/travisbyr/web503-week-3-lab-3/blob/master/images/task3.png">
+<img height="90" src="https://github.com/travisbyr/web503-week-3-lab-3/blob/master/images/task3.png">
 
 
 ### References
