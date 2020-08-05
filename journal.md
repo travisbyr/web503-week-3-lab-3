@@ -19,15 +19,15 @@ By learning how to use this skill effectively I am able to create objects that l
 
 #### Task One - Creating a Quad
 
-![Image of Code](https://github.com/NMIT-GITHUB/web503-week-3-lab-3/blob/master/images/task1.png)
+![Image of Code](https://github.com/travisbyr/web503-week-3-lab-3/blob/master/images/task1.png)
 
 #### Task Two - Creating a Rectangle
 
-![Image of Code](https://github.com/NMIT-GITHUB/web503-week-3-lab-3/blob/master/images/task2.png)
+![Image of Code](https://github.com/travisbyr/web503-week-3-lab-3/blob/master/images/task2.png)
 
 #### Task Three - Creating Two Shapes
 
-![Image of Code](https://github.com/NMIT-GITHUB/web503-week-3-lab-3/blob/master/images/task3.png)
+![Image of Code](https://github.com/travisbyr/web503-week-3-lab-3/blob/master/images/task3.png)
 
 ### References
 
