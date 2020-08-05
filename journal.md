@@ -18,15 +18,13 @@ This is an important skill to learn and understand as it allows me to be more cr
 By learning how to use this skill effectively I am able to create objects that look great. While developing this skill I learnt that p5.js had a render add on for creating 3D shapes. You can add 'WEBGL' to a shape and it will render the shape in 3D. While learning this skill I had no difficulty figuring out a solution to these tasks, as I had the ability to use the p5.js referece guide on their website. As long as I reference where I got ideas from correctly, their is not issues with doing this. 
 
 #### Task One - Creating a Quad
-
-![Image of Code](https://github.com/travisbyr/web503-week-3-lab-3/blob/master/images/task1.png)
+<img height="100" src="https://github.com/travisbyr/web503-week-3-lab-3/blob/master/images/task1.png">
 
 #### Task Two - Creating a Rectangle
-
-![Image of Code](https://github.com/travisbyr/web503-week-3-lab-3/blob/master/images/task2.png)
+<img height="100" src="https://github.com/travisbyr/web503-week-3-lab-3/blob/master/images/task2.png">
 
 #### Task Three - Creating Two Shapes
-<img height="90" src="https://github.com/travisbyr/web503-week-3-lab-3/blob/master/images/task3.png">
+<img height="100" src="https://github.com/travisbyr/web503-week-3-lab-3/blob/master/images/task3.png">
 
 
 ### References
